@@ -1,2 +1,8 @@
-# To Launch
-- run the code in
+# Launching
+
+## First time only install
+- run install.sh
+
+## To launch
+- run launch.sh
+
