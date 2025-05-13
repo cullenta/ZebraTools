@@ -1,0 +1,6 @@
+fastapi[standard]
+playwright
+supabase
+sqlalchemy
+python-dotenv 
+psycopg2
