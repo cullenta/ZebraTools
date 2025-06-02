@@ -123,6 +123,17 @@
     {
         "Day": "Monday",
         "Times": "18:00:00 - 19:00:00",
+        "Stream": "Rob Eng I",
+        "Course": "R420",
+        "Student ID": "21554",
+        "Student Name": "Zoe Zarogiannis",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Monday",
+        "Times": "18:00:00 - 19:00:00",
         "Stream": "Rob Eng II",
         "Course": "R620",
         "Student ID": "20692",
@@ -192,7 +203,7 @@
         "Stream": "Web Dev",
         "Course": "C620",
         "Student ID": "19379",
-        "Student Name": "Tenzing Desal Amji",
+        "Student Name": "Desal Tenzing Amji",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -298,6 +309,17 @@
     },
     {
         "Day": "Tuesday",
+        "Times": "16:00:00 - 17:00:00",
+        "Stream": "Mov. Models",
+        "Course": "R340",
+        "Student ID": "16251",
+        "Student Name": "Ava Hong",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Tuesday",
         "Times": "17:00:00 - 18:00:00",
         "Stream": "Mov. Models",
         "Course": "R320",
@@ -314,17 +336,6 @@
         "Course": "R320",
         "Student ID": "19167",
         "Student Name": "Penelope Meirovici",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Tuesday",
-        "Times": "17:00:00 - 18:00:00",
-        "Stream": "Processing",
-        "Course": "C520",
-        "Student ID": "14402",
-        "Student Name": "Carl Navera-Slonim",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -358,17 +369,6 @@
         "Course": "C820",
         "Student ID": "20136",
         "Student Name": "Mahd Adeel",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Tuesday",
-        "Times": "17:00:00 - 18:00:00",
-        "Stream": "Rob Eng I",
-        "Course": "R420",
-        "Student ID": "8549",
-        "Student Name": "Kees Chaffey-Van Meggelen",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -419,25 +419,14 @@
     },
     {
         "Day": "Tuesday",
-        "Times": "18:00:00 - 19:00:00",
+        "Times": "17:00:00 - 18:00:00",
         "Stream": "Rob Eng I",
-        "Course": "R420",
-        "Student ID": "21554",
-        "Student Name": "Zoe Zarogiannis",
+        "Course": "N/A",
+        "Student ID": "7741",
+        "Student Name": "Dhaniyal",
         "Instructor Name": "N/A",
         "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Tuesday",
-        "Times": "16:30:00 - 18:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "R620",
-        "Student ID": "10249",
-        "Student Name": "Declan Wong",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
+        "Trial Date": "Jun 3, 2025"
     },
     {
         "Day": "Tuesday",
@@ -518,11 +507,11 @@
     },
     {
         "Day": "Tuesday",
-        "Times": "18:00:00 - 19:00:00",
+        "Times": "16:30:00 - 18:30:00",
         "Stream": "Sr. Rob Eng I",
         "Course": "R820",
-        "Student ID": "20655",
-        "Student Name": "Cardin Gerrard",
+        "Student ID": "10249",
+        "Student Name": "Declan Wong",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -530,12 +519,12 @@
     {
         "Day": "Tuesday",
         "Times": "18:00:00 - 19:00:00",
-        "Stream": "Unity",
-        "Course": "N/A",
-        "Student ID": "14580",
-        "Student Name": "Tyler Brown",
-        "Instructor Name": "",
-        "Make Up Date": "May 6, 2025",
+        "Stream": "Sr. Rob Eng I",
+        "Course": "R820",
+        "Student ID": "20655",
+        "Student Name": "Cardin Gerrard",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
         "Trial Date": ""
     },
     {
@@ -617,6 +606,17 @@
     },
     {
         "Day": "Tuesday",
+        "Times": "17:00:00 - 18:00:00",
+        "Stream": "Web Dev",
+        "Course": "C620",
+        "Student ID": "8549",
+        "Student Name": "Kees Chaffey-Van Meggelen",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Tuesday",
         "Times": "16:00:00 - 17:00:00",
         "Stream": "Web Dev",
         "Course": "C620",
@@ -633,6 +633,61 @@
         "Course": "C620",
         "Student ID": "11689",
         "Student Name": "Uma Robertson",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
+        "Times": "17:00:00 - 19:00:00",
+        "Stream": "COD-SNOVA",
+        "Course": "N/A",
+        "Student ID": "8971",
+        "Student Name": "Tula van Zon",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
+        "Times": "16:00:00 - 18:00:00",
+        "Stream": "COD-SNOVA",
+        "Course": "N/A",
+        "Student ID": "9169",
+        "Student Name": "Jamie Besaw",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
+        "Times": "16:00:00 - 18:00:00",
+        "Stream": "COD-SNOVA",
+        "Course": "N/A",
+        "Student ID": "13310",
+        "Student Name": "Dante Gee",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
+        "Times": "16:00:00 - 18:00:00",
+        "Stream": "COD-SNOVA",
+        "Course": "N/A",
+        "Student ID": "14439",
+        "Student Name": "Hanxian (Shawn) Wang",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
+        "Times": "17:00:00 - 19:00:00",
+        "Stream": "COD-SNOVA",
+        "Course": "N/A",
+        "Student ID": "19379",
+        "Student Name": "Desal Tenzing Amji",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -661,17 +716,6 @@
     },
     {
         "Day": "Wednesday",
-        "Times": "17:00:00 - 18:00:00",
-        "Stream": "Minecraft",
-        "Course": "C350",
-        "Student ID": "21357",
-        "Student Name": "Oliver Lewin",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Wednesday",
         "Times": "16:00:00 - 17:00:00",
         "Stream": "Mov. Models",
         "Course": "R320",
@@ -688,6 +732,17 @@
         "Course": "R320",
         "Student ID": "18174",
         "Student Name": "Adrian Mastoras",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
+        "Times": "16:00:00 - 17:00:00",
+        "Stream": "Mov. Models",
+        "Course": "R320",
+        "Student ID": "18708",
+        "Student Name": "Eitan Toubkin",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -738,55 +793,11 @@
     },
     {
         "Day": "Wednesday",
-        "Times": "19:00:00 - 20:00:00",
-        "Stream": "Mov. Models",
-        "Course": "R320",
-        "Student ID": "19894",
-        "Student Name": "Callum Phillips",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Wednesday",
-        "Times": "19:00:00 - 20:00:00",
-        "Stream": "Mov. Models",
-        "Course": "R320",
-        "Student ID": "19895",
-        "Student Name": "Alasdair Phillips",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Wednesday",
         "Times": "18:00:00 - 19:00:00",
         "Stream": "Mov. Models",
         "Course": "R320",
         "Student ID": "19987",
         "Student Name": "Killian Keddie",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Wednesday",
-        "Times": "19:00:00 - 20:00:00",
-        "Stream": "Mov. Models",
-        "Course": "R320",
-        "Student ID": "20021",
-        "Student Name": "Ethan Martin",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Wednesday",
-        "Times": "19:00:00 - 20:00:00",
-        "Stream": "Mov. Models",
-        "Course": "R320",
-        "Student ID": "20022",
-        "Student Name": "Maya Martin",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -842,50 +853,6 @@
         "Course": "C520",
         "Student ID": "18561",
         "Student Name": "Ben Raymond",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Wednesday",
-        "Times": "16:00:00 - 17:00:00",
-        "Stream": "Python",
-        "Course": "C820",
-        "Student ID": "9169",
-        "Student Name": "Jamie Besaw",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Wednesday",
-        "Times": "16:00:00 - 17:00:00",
-        "Stream": "Python",
-        "Course": "C820",
-        "Student ID": "13310",
-        "Student Name": "Dante Gee",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Wednesday",
-        "Times": "17:00:00 - 18:00:00",
-        "Stream": "Python",
-        "Course": "C820",
-        "Student ID": "14439",
-        "Student Name": "Shawn Wang",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Wednesday",
-        "Times": "16:00:00 - 17:00:00",
-        "Stream": "Python",
-        "Course": "C820",
-        "Student ID": "14439",
-        "Student Name": "Shawn Wang",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -980,22 +947,22 @@
     },
     {
         "Day": "Wednesday",
-        "Times": "16:00:00 - 17:00:00",
+        "Times": "18:00:00 - 19:00:00",
         "Stream": "Rob Eng I",
-        "Course": "R420",
-        "Student ID": "18554",
-        "Student Name": "Omi Bascunan",
+        "Course": "R440",
+        "Student ID": "18492",
+        "Student Name": "Emmett Hundert",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
     },
     {
         "Day": "Wednesday",
-        "Times": "18:00:00 - 19:00:00",
+        "Times": "16:00:00 - 17:00:00",
         "Stream": "Rob Eng I",
         "Course": "R420",
-        "Student ID": "16732",
-        "Student Name": "Ivri Ozery",
+        "Student ID": "18554",
+        "Student Name": "Omi Bascunan",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -1018,6 +985,17 @@
         "Course": "R420",
         "Student ID": "19934",
         "Student Name": "lila sharma",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
+        "Times": "18:00:00 - 19:00:00",
+        "Stream": "Rob Eng I",
+        "Course": "R420",
+        "Student ID": "16732",
+        "Student Name": "Ivri Ozery",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -1112,17 +1090,6 @@
     },
     {
         "Day": "Wednesday",
-        "Times": "18:00:00 - 19:00:00",
-        "Stream": "Rob Eng I",
-        "Course": "R420",
-        "Student ID": "16732",
-        "Student Name": "Ivri Ozery",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Wednesday",
         "Times": "16:00:00 - 17:00:00",
         "Stream": "Rob Eng II",
         "Course": "R620",
@@ -1145,6 +1112,17 @@
     },
     {
         "Day": "Wednesday",
+        "Times": "18:00:00 - 19:00:00",
+        "Stream": "Rob Eng I",
+        "Course": "R420",
+        "Student ID": "16732",
+        "Student Name": "Ivri Ozery",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
         "Times": "17:00:00 - 18:00:00",
         "Stream": "Unity",
         "Course": "C720",
@@ -1156,24 +1134,57 @@
     },
     {
         "Day": "Wednesday",
-        "Times": "16:30:00 - 17:30:00",
-        "Stream": "Web Dev",
-        "Course": "C680",
-        "Student ID": "8971",
-        "Student Name": "Tula van Zon",
+        "Times": "17:15:00 - 19:15:00",
+        "Stream": "VEX",
+        "Course": "N/A",
+        "Student ID": "9710",
+        "Student Name": "Rowan Shaskin",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
     },
     {
         "Day": "Wednesday",
-        "Times": "17:00:00 - 18:00:00",
-        "Stream": "Web Dev",
-        "Course": "C620",
-        "Student ID": "19379",
-        "Student Name": "Tenzing Desal Amji",
+        "Times": "17:15:00 - 19:15:00",
+        "Stream": "VEX",
+        "Course": "N/A",
+        "Student ID": "17326",
+        "Student Name": "Owen Macdonald",
         "Instructor Name": "N/A",
         "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
+        "Times": "17:15:00 - 19:15:00",
+        "Stream": "VEX",
+        "Course": "N/A",
+        "Student ID": "17882",
+        "Student Name": "York Barrington",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
+        "Times": "17:15:00 - 19:15:00",
+        "Stream": "VEX",
+        "Course": "N/A",
+        "Student ID": "18323",
+        "Student Name": "Jack Barbisan",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Thursday",
+        "Times": "18:00:00 - 19:00:00",
+        "Stream": "Java",
+        "Course": "N/A",
+        "Student ID": "9327",
+        "Student Name": "Rudi Havelock",
+        "Instructor Name": "",
+        "Make Up Date": "Jun 5, 2025",
         "Trial Date": ""
     },
     {
@@ -1221,23 +1232,23 @@
         "Trial Date": ""
     },
     {
-        "Day": "Thursday",
-        "Times": "16:00:00 - 17:00:00",
-        "Stream": "Minecraft",
-        "Course": "C350",
-        "Student ID": "13416",
-        "Student Name": "Cole Wills-Feindel",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
         "Day": "Wednesday",
         "Times": "18:00:00 - 19:00:00",
         "Stream": "Rob Eng I",
         "Course": "R420",
         "Student ID": "16732",
         "Student Name": "Ivri Ozery",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Thursday",
+        "Times": "16:00:00 - 17:00:00",
+        "Stream": "Minecraft",
+        "Course": "C350",
+        "Student ID": "13416",
+        "Student Name": "Cole Wills-Feindel",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -1342,23 +1353,23 @@
         "Trial Date": ""
     },
     {
-        "Day": "Thursday",
-        "Times": "16:00:00 - 17:00:00",
-        "Stream": "Mov. Models",
-        "Course": "R320",
-        "Student ID": "19170",
-        "Student Name": "Marty Mayer",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
         "Day": "Wednesday",
         "Times": "18:00:00 - 19:00:00",
         "Stream": "Rob Eng I",
         "Course": "R420",
         "Student ID": "16732",
         "Student Name": "Ivri Ozery",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Thursday",
+        "Times": "16:00:00 - 17:00:00",
+        "Stream": "Mov. Models",
+        "Course": "R320",
+        "Student ID": "19170",
+        "Student Name": "Marty Mayer",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -1384,28 +1395,6 @@
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
-    },
-    {
-        "Day": "Thursday",
-        "Times": "18:00:00 - 19:00:00",
-        "Stream": "Mov. Models",
-        "Course": "N/A",
-        "Student ID": "7184",
-        "Student Name": "LEO SIDOROV",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": "May 8, 2025"
-    },
-    {
-        "Day": "Thursday",
-        "Times": "18:00:00 - 19:00:00",
-        "Stream": "Mov. Models",
-        "Course": "N/A",
-        "Student ID": "7186",
-        "Student Name": "TORINO SIDOROV",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": "May 8, 2025"
     },
     {
         "Day": "Thursday",
@@ -1465,10 +1454,21 @@
     {
         "Day": "Thursday",
         "Times": "17:00:00 - 18:00:00",
-        "Stream": "Rob Eng I",
-        "Course": "R420",
-        "Student ID": "14402",
-        "Student Name": "Carl Navera-Slonim",
+        "Stream": "Rob Eng II",
+        "Course": "R620",
+        "Student ID": "7712",
+        "Student Name": "Oskar Kent",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Thursday",
+        "Times": "17:00:00 - 18:00:00",
+        "Stream": "Scratch",
+        "Course": "C220",
+        "Student ID": "9799",
+        "Student Name": "Avir Shah",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -1480,39 +1480,6 @@
         "Course": "R420",
         "Student ID": "16732",
         "Student Name": "Ivri Ozery",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Thursday",
-        "Times": "17:00:00 - 18:00:00",
-        "Stream": "Rob Eng II",
-        "Course": "R620",
-        "Student ID": "7712",
-        "Student Name": "Oskar Kent",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Thursday",
-        "Times": "18:00:00 - 19:00:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "7261",
-        "Student Name": "Jaleel Rego",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": "May 8, 2025"
-    },
-    {
-        "Day": "Thursday",
-        "Times": "17:00:00 - 18:00:00",
-        "Stream": "Scratch",
-        "Course": "C320",
-        "Student ID": "9799",
-        "Student Name": "Avir Shah",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -1585,22 +1552,22 @@
     },
     {
         "Day": "Thursday",
-        "Times": "16:00:00 - 17:00:00",
-        "Stream": "Web Dev",
-        "Course": "C620",
-        "Student ID": "6340",
-        "Student Name": "Deven Gambhir",
+        "Times": "18:00:00 - 19:00:00",
+        "Stream": "Unity",
+        "Course": "C720",
+        "Student ID": "22700",
+        "Student Name": "Nathan Onuorah",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
     },
     {
-        "Day": "Wednesday",
-        "Times": "18:00:00 - 19:00:00",
-        "Stream": "Rob Eng I",
-        "Course": "R420",
-        "Student ID": "16732",
-        "Student Name": "Ivri Ozery",
+        "Day": "Thursday",
+        "Times": "16:00:00 - 17:00:00",
+        "Stream": "Web Dev",
+        "Course": "C620",
+        "Student ID": "6340",
+        "Student Name": "Deven Gambhir",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -1623,6 +1590,17 @@
         "Course": "C620",
         "Student ID": "6850",
         "Student Name": "Brayden Lam",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
+        "Times": "18:00:00 - 19:00:00",
+        "Stream": "Rob Eng I",
+        "Course": "R420",
+        "Student ID": "16732",
+        "Student Name": "Ivri Ozery",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -1656,17 +1634,6 @@
         "Course": "C620",
         "Student ID": "13757",
         "Student Name": "William MacKenzie",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Friday",
-        "Times": "17:00:00 - 18:00:00",
-        "Stream": "Minecraft",
-        "Course": "C350",
-        "Student ID": "19654",
-        "Student Name": "Calvin Pathare",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -1716,17 +1683,6 @@
         "Trial Date": ""
     },
     {
-        "Day": "Wednesday",
-        "Times": "18:00:00 - 19:00:00",
-        "Stream": "Rob Eng I",
-        "Course": "R420",
-        "Student ID": "16732",
-        "Student Name": "Ivri Ozery",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
         "Day": "Friday",
         "Times": "16:00:00 - 17:00:00",
         "Stream": "Processing",
@@ -1760,6 +1716,17 @@
         "Trial Date": ""
     },
     {
+        "Day": "Wednesday",
+        "Times": "18:00:00 - 19:00:00",
+        "Stream": "Rob Eng I",
+        "Course": "R420",
+        "Student ID": "16732",
+        "Student Name": "Ivri Ozery",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
         "Day": "Friday",
         "Times": "16:00:00 - 17:00:00",
         "Stream": "Rob Eng I",
@@ -1788,6 +1755,17 @@
         "Course": "R420",
         "Student ID": "18561",
         "Student Name": "Ben Raymond",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Friday",
+        "Times": "17:00:00 - 18:00:00",
+        "Stream": "Rob Eng I",
+        "Course": "R420",
+        "Student ID": "22421",
+        "Student Name": "Jaleel Rego",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -1837,6 +1815,28 @@
         "Trial Date": ""
     },
     {
+        "Day": "Saturday",
+        "Times": "11:00:00 - 12:00:00",
+        "Stream": "Mov. Models",
+        "Course": "R320",
+        "Student ID": "10190",
+        "Student Name": "Andy Scicos",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Saturday",
+        "Times": "09:00:00 - 10:00:00",
+        "Stream": "Mov. Models",
+        "Course": "R320",
+        "Student ID": "10190",
+        "Student Name": "Andy Scicos",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
         "Day": "Wednesday",
         "Times": "18:00:00 - 19:00:00",
         "Stream": "Rob Eng I",
@@ -1860,7 +1860,7 @@
     },
     {
         "Day": "Saturday",
-        "Times": "09:00:00 - 10:00:00",
+        "Times": "10:00:00 - 11:00:00",
         "Stream": "Mov. Models",
         "Course": "R320",
         "Student ID": "10190",
@@ -1871,11 +1871,11 @@
     },
     {
         "Day": "Saturday",
-        "Times": "10:00:00 - 11:00:00",
+        "Times": "11:00:00 - 12:00:00",
         "Stream": "Mov. Models",
         "Course": "R320",
-        "Student ID": "10190",
-        "Student Name": "Andy Scicos",
+        "Student ID": "13682",
+        "Student Name": "Noah Ryan",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -1958,6 +1958,17 @@
         "Trial Date": ""
     },
     {
+        "Day": "Saturday",
+        "Times": "13:00:00 - 14:00:00",
+        "Stream": "Mov. Models",
+        "Course": "N/A",
+        "Student ID": "7036",
+        "Student Name": "Sherylina",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": "Jun 7, 2025"
+    },
+    {
         "Day": "Wednesday",
         "Times": "18:00:00 - 19:00:00",
         "Stream": "Rob Eng I",
@@ -1981,25 +1992,25 @@
     },
     {
         "Day": "Saturday",
-        "Times": "09:00:00 - 10:00:00",
+        "Times": "13:00:00 - 14:00:00",
         "Stream": "Mov. Models",
-        "Course": "R320",
-        "Student ID": "10190",
-        "Student Name": "Andy Scicos",
+        "Course": "N/A",
+        "Student ID": "7689",
+        "Student Name": "Maasai",
         "Instructor Name": "N/A",
         "Make Up Date": "",
-        "Trial Date": ""
+        "Trial Date": "May 31, 2025"
     },
     {
         "Day": "Saturday",
         "Times": "13:00:00 - 14:00:00",
         "Stream": "Mov. Models",
         "Course": "N/A",
-        "Student ID": "7036",
-        "Student Name": "Sherylina",
+        "Student ID": "7710",
+        "Student Name": "Jainil",
         "Instructor Name": "N/A",
         "Make Up Date": "",
-        "Trial Date": "Jun 7, 2025"
+        "Trial Date": "May 31, 2025"
     },
     {
         "Day": "Saturday",
@@ -2036,7 +2047,7 @@
     },
     {
         "Day": "Saturday",
-        "Times": "13:00:00 - 15:00:00",
+        "Times": "10:00:00 - 12:00:00",
         "Stream": "ROB-STAR",
         "Course": "N/A",
         "Student ID": "6937",
@@ -2047,22 +2058,11 @@
     },
     {
         "Day": "Saturday",
-        "Times": "13:00:00 - 15:00:00",
+        "Times": "10:00:00 - 12:00:00",
         "Stream": "ROB-STAR",
         "Course": "N/A",
         "Student ID": "16626",
         "Student Name": "KC Harberg",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "09:00:00 - 11:00:00",
-        "Stream": "ROB-STAR",
-        "Course": "N/A",
-        "Student ID": "18492",
-        "Student Name": "Emmett Hundert",
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
@@ -2124,17 +2124,6 @@
     },
     {
         "Day": "Saturday",
-        "Times": "09:00:00 - 10:00:00",
-        "Stream": "Mov. Models",
-        "Course": "R320",
-        "Student ID": "10190",
-        "Student Name": "Andy Scicos",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
         "Times": "11:00:00 - 12:00:00",
         "Stream": "Rob Eng I",
         "Course": "R420",
@@ -2154,39 +2143,6 @@
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": "Jun 7, 2025"
-    },
-    {
-        "Day": "Saturday",
-        "Times": "12:00:00 - 12:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "13222",
-        "Student Name": "Yoav Sror",
-        "Instructor Name": "",
-        "Make Up Date": "May 10, 2025",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "12:00:00 - 12:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "13222",
-        "Student Name": "Yoav Sror",
-        "Instructor Name": "",
-        "Make Up Date": "May 17, 2025",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "12:00:00 - 12:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "13222",
-        "Student Name": "Yoav Sror",
-        "Instructor Name": "",
-        "Make Up Date": "May 24, 2025",
-        "Trial Date": ""
     },
     {
         "Day": "Saturday",
@@ -2244,94 +2200,6 @@
         "Trial Date": ""
     },
     {
-        "Day": "Wednesday",
-        "Times": "18:00:00 - 19:00:00",
-        "Stream": "Rob Eng I",
-        "Course": "R420",
-        "Student ID": "16732",
-        "Student Name": "Ivri Ozery",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "11:00:00 - 12:00:00",
-        "Stream": "Mov. Models",
-        "Course": "R320",
-        "Student ID": "10190",
-        "Student Name": "Andy Scicos",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "09:00:00 - 10:00:00",
-        "Stream": "Mov. Models",
-        "Course": "R320",
-        "Student ID": "10190",
-        "Student Name": "Andy Scicos",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "12:00:00 - 12:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "13222",
-        "Student Name": "Yoav Sror",
-        "Instructor Name": "",
-        "Make Up Date": "May 10, 2025",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "12:00:00 - 12:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "13222",
-        "Student Name": "Yoav Sror",
-        "Instructor Name": "",
-        "Make Up Date": "May 17, 2025",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "12:00:00 - 12:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "13222",
-        "Student Name": "Yoav Sror",
-        "Instructor Name": "",
-        "Make Up Date": "May 24, 2025",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "12:00:00 - 12:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "13222",
-        "Student Name": "Yoav Sror",
-        "Instructor Name": "",
-        "Make Up Date": "May 31, 2025",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "11:00:00 - 12:00:00",
-        "Stream": "Scratch",
-        "Course": "C220",
-        "Student ID": "13682",
-        "Student Name": "Noah Ryan",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
         "Day": "Saturday",
         "Times": "11:00:00 - 12:00:00",
         "Stream": "Scratch",
@@ -2363,6 +2231,50 @@
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
+    },
+    {
+        "Day": "Wednesday",
+        "Times": "18:00:00 - 19:00:00",
+        "Stream": "Rob Eng I",
+        "Course": "R420",
+        "Student ID": "16732",
+        "Student Name": "Ivri Ozery",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Saturday",
+        "Times": "11:00:00 - 12:00:00",
+        "Stream": "Mov. Models",
+        "Course": "R320",
+        "Student ID": "10190",
+        "Student Name": "Andy Scicos",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Saturday",
+        "Times": "12:00:00 - 12:30:00",
+        "Stream": "Rob Eng II",
+        "Course": "N/A",
+        "Student ID": "13222",
+        "Student Name": "Yoav Sror",
+        "Instructor Name": "",
+        "Make Up Date": "May 31, 2025",
+        "Trial Date": ""
+    },
+    {
+        "Day": "Saturday",
+        "Times": "10:00:00 - 11:00:00",
+        "Stream": "Scratch",
+        "Course": "N/A",
+        "Student ID": "7768",
+        "Student Name": "Marshall",
+        "Instructor Name": "N/A",
+        "Make Up Date": "",
+        "Trial Date": "Jun 14, 2025"
     },
     {
         "Day": "Saturday",
@@ -2410,105 +2322,6 @@
     },
     {
         "Day": "Sunday",
-        "Times": "11:00:00 - 12:00:00",
-        "Stream": "Mov. Models",
-        "Course": "N/A",
-        "Student ID": "7270",
-        "Student Name": "Laila",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": "May 11, 2025"
-    },
-    {
-        "Day": "Sunday",
-        "Times": "11:00:00 - 12:00:00",
-        "Stream": "Mov. Models",
-        "Course": "N/A",
-        "Student ID": "7279",
-        "Student Name": "Aubrey",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": "May 11, 2025"
-    },
-    {
-        "Day": "Wednesday",
-        "Times": "18:00:00 - 19:00:00",
-        "Stream": "Rob Eng I",
-        "Course": "R420",
-        "Student ID": "16732",
-        "Student Name": "Ivri Ozery",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "11:00:00 - 12:00:00",
-        "Stream": "Mov. Models",
-        "Course": "R320",
-        "Student ID": "10190",
-        "Student Name": "Andy Scicos",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "09:00:00 - 10:00:00",
-        "Stream": "Mov. Models",
-        "Course": "R320",
-        "Student ID": "10190",
-        "Student Name": "Andy Scicos",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "12:00:00 - 12:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "13222",
-        "Student Name": "Yoav Sror",
-        "Instructor Name": "",
-        "Make Up Date": "May 10, 2025",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "12:00:00 - 12:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "13222",
-        "Student Name": "Yoav Sror",
-        "Instructor Name": "",
-        "Make Up Date": "May 17, 2025",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "12:00:00 - 12:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "13222",
-        "Student Name": "Yoav Sror",
-        "Instructor Name": "",
-        "Make Up Date": "May 24, 2025",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Saturday",
-        "Times": "12:00:00 - 12:30:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "13222",
-        "Student Name": "Yoav Sror",
-        "Instructor Name": "",
-        "Make Up Date": "May 31, 2025",
-        "Trial Date": ""
-    },
-    {
-        "Day": "Sunday",
         "Times": "10:00:00 - 11:00:00",
         "Stream": "Rob Eng I",
         "Course": "R420",
@@ -2550,16 +2363,5 @@
         "Instructor Name": "N/A",
         "Make Up Date": "",
         "Trial Date": ""
-    },
-    {
-        "Day": "Sunday",
-        "Times": "11:00:00 - 12:00:00",
-        "Stream": "Rob Eng II",
-        "Course": "N/A",
-        "Student ID": "7229",
-        "Student Name": "Shahil",
-        "Instructor Name": "N/A",
-        "Make Up Date": "",
-        "Trial Date": "May 11, 2025"
     }
 ]

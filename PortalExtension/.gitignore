@@ -1,4 +1,5 @@
-
+pvenv/
+__pycache__/
 # Playwright
 node_modules/
 /test-results/

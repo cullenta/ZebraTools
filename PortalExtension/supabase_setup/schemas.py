@@ -1,16 +1,21 @@
 # supabase_setup/schemas.py
 from pydantic import BaseModel
+from datetime import date, time
 
-class AttendanceOut(BaseModel):
-    day: str
-    times: str
-    stream: str
+class StudentData(BaseModel):
     course: str
-    student_id: int
-    student_name: str
-    instructor_name: str
-    makeup_date: str | None
-    trial_date: str | None
-
+    name: str
+    lmsusername: str
+    lmspassword: str
+    scratchlogin: str | None
+    scratchpass:str | None
+    laptop: int | None
+    
     class Config:
         orm_mode = True
+
+class TrialData(BaseModel):
+    course: str
+    name: str
+    date: date
+    time: time

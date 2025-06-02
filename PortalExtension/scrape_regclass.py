@@ -1,16 +1,20 @@
 from playwright.sync_api import sync_playwright
 import json
-
+from scrape_status import scrape_status  # Import the global scrape status tracker
+from insert_data import insert_data_from_json
 
 def scrape_table(page):
     data = []
-    
+    scrape_status.start()  # Begin tracking scrape
+
     while True:
         rows = page.query_selector_all('tbody.MuiTableBody-root > tr')
+        scrape_status.set_total(len(rows) + scrape_status.rows_processed)  # Estimate total as we paginate
+
         for row in rows:
             cells = row.query_selector_all('th, td')
             row_data = [cell.inner_text().strip() for cell in cells]
-            
+
             # Skip rows that don't have exactly 9 columns
             if len(row_data) != 9:
                 continue
@@ -26,7 +30,9 @@ def scrape_table(page):
                 "Make Up Date": row_data[7],
                 "Trial Date": row_data[8]
             })
-    
+
+            scrape_status.increment()  # Track progress
+
         # Check if the "Next Page" button is disabled
         next_button = page.locator('button[aria-label="Next Page"]')
         if next_button.is_disabled():
@@ -35,12 +41,13 @@ def scrape_table(page):
             next_button.click()
             page.wait_for_timeout(1000)  # Allow time for the next page to load
 
+    scrape_status.finish()
     return data
 
 def main_scraper():
     with sync_playwright() as p:
-        browser = p.webkit.launch(headless=False)
-        context=browser.new_context()
+        browser = p.webkit.launch(headless=True)
+        context = browser.new_context()
         page = context.new_page()
         page.goto("https://portal.zebrarobotics.com/auth/login/")
 
@@ -81,3 +88,5 @@ def main_scraper():
 
         return table_data
 
+main_scraper()
+insert_data_from_json()
